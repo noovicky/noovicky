@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @noovicky
+- 👀 I’m interested in Python, Java, JS, HTML, C, C++, C# and Rust. 
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to collaborate on anything that will help me develop faster problem solving or faster project development. 
+- 📫 How to reach me @noo_vicky on insta. 
